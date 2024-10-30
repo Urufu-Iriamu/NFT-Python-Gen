@@ -7,14 +7,6 @@ then pip install random then pip install image and then pip install os
 
 once that is done run .main.py
 
-# social links
+Dm on discord if Code is broken/unusable `urufu_iriamu`
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/c/WilliamLuppi)
-
-[🐶 Discord](https://discord.gg/Fe579jP8Pr)
-
-[🐦 Twitter](https://twitter.com/williamlnfts)
-
-[ℹ️ Website](https://dogsunleashednft.com)
+Lost file
